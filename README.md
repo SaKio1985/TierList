@@ -1,6 +1,6 @@
 # Tier List Creator
 
-![Tier List Creator Logo](https://via.placeholder.com/150)
+![Tier List Creator Logo]([https://imgur.com/O3LprZG](https://asset.cloudinary.com/dko8avpyk/cb23ea794d9e249da15f29cb3e80cd3d))
 
 ## Descripción
 
