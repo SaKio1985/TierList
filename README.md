@@ -1,6 +1,6 @@
 # Tier List Creator
 
-![Tier List Creator Logo](https://asset.cloudinary.com/dko8avpyk/cb23ea794d9e249da15f29cb3e80cd3d)
+![Logo del Creador de Tier Lists](https://res.cloudinary.com/dko8avpyk/image/upload/v1725915412/image_kfbulf.webp)
 
 ## Descripción
 
