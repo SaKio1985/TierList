@@ -2,7 +2,7 @@
 
 Una aplicación web interactiva para crear listas de clasificación (tier lists) personalizables con una interfaz moderna y funcional.
 
-![Tier Maker Demo](https://tier-list-alpha.vercel.app/)
+(https://tier-list-alpha.vercel.app/)
 
 ## ✨ Características
 
