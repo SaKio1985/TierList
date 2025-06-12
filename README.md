@@ -177,10 +177,10 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📸 Screenshots
 
 ### Vista Principal
-![Vista Principal]([https://via.placeholder.com/600x400/1f1f1f/ffffff?text=Vista+Principal](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/Tier_Maker_mthasj.png))
+![Vista Principal](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/Tier_Maker_mthasj.png)
 
 ### Personalizando Colores
-![Personalizando Colores]([https://via.placeholder.com/600x400/1f1f1f/ffffff?text=Colores+Personalizados](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/Tier-cambio_color_untjui.png))
+![Personalizando Colores](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/Tier-cambio_color_untjui.png)
 
 ### Tier List Completada
-![Tier List Completada]([https://via.placeholder.com/600x400/1f1f1f/ffffff?text=Tier+List+Final](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/tier_final_ogxtjb.png))
+![Tier List Completada](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/tier_final_ogxtjb.png)
