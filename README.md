@@ -2,7 +2,7 @@
 
 Una aplicación web interactiva para crear listas de clasificación (tier lists) personalizables con una interfaz moderna y funcional.
 
-![Tier Maker Demo](https://via.placeholder.com/800x400/111111/ffffff?text=Tier+Maker+Demo)
+![Tier Maker Demo](https://tier-list-alpha.vercel.app/)
 
 ## ✨ Características
 
@@ -167,8 +167,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario]([https://github.com/tu-usuario](https://github.com/SaKio1985))
-- LinkedIn: [Tu Perfil]((https://www.linkedin.com/in/iban-dorado-171a4a24b/))
+- GitHub: (https://github.com/SaKio1985))
+- LinkedIn: ((https://www.linkedin.com/in/iban-dorado-171a4a24b/))
 
 ---
 
