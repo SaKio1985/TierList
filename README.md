@@ -7,17 +7,20 @@ Una aplicación web interactiva para crear listas de clasificación (tier lists)
 ## ✨ Características
 
 ### 🎨 Interfaz Personalizable
+
 - **Colores personalizables**: Cada tier tiene un selector de color integrado para personalizar la apariencia
 - **Etiquetas editables**: Haz clic en cualquier etiqueta (S, A, B, C, D, E) para cambiar el texto
 - **Diseño responsive**: Optimizado para dispositivos móviles y desktop
 
 ### 🖼️ Gestión de Imágenes
+
 - **Carga múltiple**: Sube varias imágenes a la vez desde tu dispositivo
 - **Drag & Drop**: Arrastra archivos directamente desde tu explorador de archivos
 - **Zoom de imágenes**: Doble clic en cualquier imagen para verla en tamaño completo
 - **Vista previa durante arrastre**: Visualiza dónde se colocará la imagen mientras la arrastras
 
 ### 🎯 Funcionalidades Avanzadas
+
 - **Arrastrar y soltar**: Mueve imágenes entre diferentes tiers de forma intuitiva
 - **Reset rápido**: Botón para devolver todas las imágenes al área de selección
 - **Exportar tier list**: Guarda tu tier list como imagen PNG
@@ -25,7 +28,7 @@ Una aplicación web interactiva para crear listas de clasificación (tier lists)
 
 ## 🚀 Demo en Vivo
 
-[Ver Demo]([https://tu-tiermaker.vercel.app]) 
+[Ver Demo]([https://tu-tiermaker.vercel.app])
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -39,23 +42,27 @@ Una aplicación web interactiva para crear listas de clasificación (tier lists)
 ## 📦 Instalación y Uso
 
 ### Prerrequisitos
+
 - Node.js (versión 16 o superior)
 - npm o yarn
 
 ### Instalación Local
 
 1. **Clona el repositorio**
+
    ```bash
-   git clone https://github.com/tu-usuario/tier-maker.git
+   git clone https://github.com/SaKio1985/tier-maker.git
    cd tier-maker
    ```
 
 2. **Instala las dependencias**
+
    ```bash
    npm install
    ```
 
 3. **Inicia el servidor de desarrollo**
+
    ```bash
    npm run dev
    ```
@@ -74,21 +81,26 @@ npm run build
 ## 🎮 Cómo Usar
 
 1. **Cargar Imágenes**
+
    - Haz clic en el botón ➕ para seleccionar archivos
    - O arrastra imágenes directamente al área de selección
 
 2. **Organizar en Tiers**
+
    - Arrastra las imágenes desde el área de selección a cualquier tier
    - Mueve imágenes entre diferentes tiers según prefieras
 
 3. **Personalizar**
+
    - Haz clic en las etiquetas (S, A, B, etc.) para editarlas
    - Usa los selectores de color para cambiar los colores de cada tier
 
 4. **Ver en Detalle**
+
    - Doble clic en cualquier imagen para verla ampliada
 
 5. **Resetear**
+
    - Usa el botón 🔄 para devolver todas las imágenes al área de selección
 
 6. **Guardar**
@@ -127,12 +139,12 @@ Este proyecto está configurado para desplegarse automáticamente en Vercel:
 
 ```css
 :root {
-  --color-s: #ff7f80;  /* Tier S - Rojo claro */
-  --color-a: #ffc07f;  /* Tier A - Naranja */
-  --color-b: #ffdf80;  /* Tier B - Amarillo */
-  --color-c: #fdff7f;  /* Tier C - Amarillo verdoso */
-  --color-d: #bfff7f;  /* Tier D - Verde claro */
-  --color-e: #7fff7f;  /* Tier E - Verde */
+  --color-s: #ff7f80; /* Tier S - Rojo claro */
+  --color-a: #ffc07f; /* Tier A - Naranja */
+  --color-b: #ffdf80; /* Tier B - Amarillo */
+  --color-c: #fdff7f; /* Tier C - Amarillo verdoso */
+  --color-d: #bfff7f; /* Tier D - Verde claro */
+  --color-e: #7fff7f; /* Tier E - Verde */
 }
 ```
 
@@ -167,6 +179,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👤 Autor
 
 **Tu Nombre**
+
 - GitHub: (https://github.com/SaKio1985))
 - LinkedIn: ((https://www.linkedin.com/in/iban-dorado-171a4a24b/))
 
@@ -177,10 +190,13 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📸 Screenshots
 
 ### Vista Principal
-![Vista Principal](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/Tier_Maker_mthasj.png)
 
-### Personalizando Colores
-![Personalizando Colores](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/Tier-cambio_color_untjui.png)
+![Vista Principal](https://res.cloudinary.com/dko8avpyk/image/upload/v1751054519/Screenshot_2025-06-27_at_21-57-12_Tier_Maker_wqsosi.png)
+
+### Personalizando Secciones
+
+![Personalizando Secciones](https://res.cloudinary.com/dko8avpyk/image/upload/v1751054519/Screenshot_2025-06-27_at_21-59-24_Tier_Maker_hgsbnj.png)
 
 ### Tier List Completada
-![Tier List Completada](https://res.cloudinary.com/dko8avpyk/image/upload/v1749729804/tier_final_ogxtjb.png)
+
+![Tier List Completada](https://res.cloudinary.com/dko8avpyk/image/upload/v1751054519/Screenshot_2025-06-27_at_22-00-27_Tier_Maker_y6u7j7.png)
